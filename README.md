@@ -46,4 +46,4 @@ make
 cd build && make test
 ~~~
 
-Refer to [this blog post]() for a detailed explaination of how it works.
+Refer to [this blog post](https://youyue123.github.io/tech/2018/01/29/TDD-for-C++-in-CMake-And-GoogleTest.html) for a detailed explaination of how it works.
