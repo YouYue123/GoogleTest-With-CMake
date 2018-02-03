@@ -2,6 +2,10 @@ A sample project for how to setup googletest with CMake. The detailed blog can b
 
 https://youyue123.github.io/tech/2018/01/29/TDD-for-C++-in-CMake-And-GoogleTest.html
 
+<p align="center">
+  <img src="https://github.com/YouYue123/GoogleTest-With-CMake/blob/master/TDD.jpg" />
+</p>
+
 ## File Structure
 
 
